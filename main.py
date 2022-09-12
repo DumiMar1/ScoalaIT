@@ -1,16 +1,31 @@
-# This is a sample Python script.
+#
+#
+# def say_something(user_input):
+#     empty_list = []
+#
+#     while True:
+#
+#         if user_input.startswith(("How", "What", "Where", "When")):
+#             empty_list.append(user_input + "? ")
+#
+#         if user_input:
+#             empty_list.append(user_input.capitalize() + ". ")
+#
+#         return "".join(empty_list)
+#
+#
+# user_input = input("say something: ")
+# print(say_something(user_input))
+#
+#
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+def str_input(string):
 
+    for index in range(len(string)):
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+        if string[index] == "(" and string[index + 1] == ")":
+            return True
+        else:
+            return False
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print(str_input("()"))
