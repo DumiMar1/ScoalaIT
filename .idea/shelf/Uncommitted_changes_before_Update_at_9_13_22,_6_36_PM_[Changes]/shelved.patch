@@ -1,0 +1,40 @@
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#\n#\n# def say_something(user_input):\n#     empty_list = []\n#\n#     while True:\n#\n#         if user_input.startswith((\"How\", \"What\", \"Where\", \"When\")):\n#             empty_list.append(user_input + \"? \")\n#\n#         if user_input:\n#             empty_list.append(user_input.capitalize() + \". \")\n#\n#         return \"\".join(empty_list)\n#\n#\n# user_input = input(\"say something: \")\n# print(say_something(user_input))\n#\n#\n\ndef str_input(string):\n\n    for index in range(len(string)):\n\n        if string[index] == \"(\" and string[index + 1] == \")\":\n            return True\n        else:\n            return False\n\nprint(str_input(\"()\"))\n
+===================================================================
+diff --git a/main.py b/main.py
+--- a/main.py	
++++ b/main.py	
+@@ -1,31 +1,0 @@
+-#
+-#
+-# def say_something(user_input):
+-#     empty_list = []
+-#
+-#     while True:
+-#
+-#         if user_input.startswith(("How", "What", "Where", "When")):
+-#             empty_list.append(user_input + "? ")
+-#
+-#         if user_input:
+-#             empty_list.append(user_input.capitalize() + ". ")
+-#
+-#         return "".join(empty_list)
+-#
+-#
+-# user_input = input("say something: ")
+-# print(say_something(user_input))
+-#
+-#
+-
+-def str_input(string):
+-
+-    for index in range(len(string)):
+-
+-        if string[index] == "(" and string[index + 1] == ")":
+-            return True
+-        else:
+-            return False
+-
+-print(str_input("()"))
