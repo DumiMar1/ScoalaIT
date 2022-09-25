@@ -27,8 +27,10 @@ def divisor(num):
 
 
 def max_divisor(num):
-
-    return max(divisor(num))
+    try:
+        return max(divisor(num))
+    except ValueError:
+        return None
 
 
 def digits(num):
