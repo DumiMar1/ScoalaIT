@@ -1,6 +1,7 @@
 from utils import *
 
 if __name__ == "__main__":
+    print("This game contains name of countries.")
     print(f"Your word to guess is {computer_choice_hidden}.")
     while computer_choice != computer_choice_hidden and player_lives != 0:
         valid_input = user_guess_f()
