@@ -2,23 +2,23 @@ import random
 words_list = ["Canada", "Argentina", "China", "Germania", "Australia", "Romania", "Liechtenstein", "Monaco", "Vatican", "Mexic"]
 player_lives = 3
 
-computer_choice = random.choice(words_list).lower()
+computer_choice = random.choice(words_list)
 computer_choice_hidden = "_" * len(computer_choice)
 
 
-def user_guess_f():
+def user_input():
     while True:
         user_guess = input("Please provide a char.")
-        if user_guess.isalpha():
-            return user_guess.lower()
+        if user_guess.isalpha() and len(user_guess) == 1:
+            return user_guess
 
 
-def index_list_f(user_guess, string):
-    index_list_1 = []
-    for index1 in range(len(string)):
-        if string[index1] == user_guess:
-            index_list_1.append(index1)
-    return index_list_1
+def index_lst(user_guess, string):
+    index_list = []
+    for index in range(len(string)):
+        if string[index].lower() == user_guess:
+            index_list.append(index)
+    return index_list
 
 
 def replace_char(char, string, lst):
