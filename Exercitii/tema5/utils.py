@@ -4,6 +4,7 @@ import uuid
 import json
 
 
+
 def read_csv(file_path):
     with open(file_path) as csv_file:
         csv_reader = csv.DictReader(csv_file)
@@ -48,7 +49,12 @@ def check_brand(lst, name):
                 json.dump(make, f, ensure_ascii=False, indent=4)
 
 
+def user_choice_1():
+    while True:
+        user_choice = input("Choose a brand you want to see.")
 
+        if user_choice.isalpha():
+            return user_choice
 
 
 
