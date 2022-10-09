@@ -1,0 +1,2648 @@
+[
+    {
+        "index": "41",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan 370Z Coupe",
+        "Year": "2011",
+        "Horsepower": "350",
+        "ID": "eefe3364-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "42",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan 370Z Coupe",
+        "Year": "2010",
+        "Horsepower": "350",
+        "ID": "eefe3382-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "43",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan 370Z Coupe",
+        "Year": "2009",
+        "Horsepower": "350",
+        "ID": "eefe33a0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "109",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan 370Z Roadster",
+        "Year": "2011",
+        "Horsepower": "332",
+        "ID": "eefe3bc0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "110",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan 370Z Roadster",
+        "Year": "2011",
+        "Horsepower": "332",
+        "ID": "eefe3bde-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "111",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan 370Z Roadster",
+        "Year": "2011",
+        "Horsepower": "332",
+        "ID": "eefe3bfc-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "112",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan 370Z Roadster",
+        "Year": "2011",
+        "Horsepower": "332",
+        "ID": "eefe3c1a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "113",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan 370Z Roadster",
+        "Year": "2010",
+        "Horsepower": "332",
+        "ID": "eefe3c38-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "114",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan 370Z Roadster",
+        "Year": "2010",
+        "Horsepower": "332",
+        "ID": "eefe3c56-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "115",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan 370Z Roadster",
+        "Year": "2010",
+        "Horsepower": "332",
+        "ID": "eefe3c74-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "116",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan 370Z Roadster",
+        "Year": "2010",
+        "Horsepower": "332",
+        "ID": "eefe3c9c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "118",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan 370Z Coupe",
+        "Year": "2011",
+        "Horsepower": "332",
+        "ID": "eefe3cd8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "119",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan 370Z Coupe",
+        "Year": "2011",
+        "Horsepower": "332",
+        "ID": "eefe3d00-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "120",
+        "City mpg": "19",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan 370Z Coupe",
+        "Year": "2011",
+        "Horsepower": "332",
+        "ID": "eefe3d1e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "121",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan 370Z Coupe",
+        "Year": "2011",
+        "Horsepower": "332",
+        "ID": "eefe3d3c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "123",
+        "City mpg": "19",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan 370Z Coupe",
+        "Year": "2010",
+        "Horsepower": "332",
+        "ID": "eefe3d78-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "124",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan 370Z Coupe",
+        "Year": "2010",
+        "Horsepower": "332",
+        "ID": "eefe3d96-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "125",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan 370Z Coupe",
+        "Year": "2010",
+        "Horsepower": "332",
+        "ID": "eefe3dd2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "126",
+        "City mpg": "19",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan 370Z Coupe",
+        "Year": "2010",
+        "Horsepower": "332",
+        "ID": "eefe3df0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "170",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan 370Z Coupe",
+        "Year": "2009",
+        "Horsepower": "332",
+        "ID": "eefe45b6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "171",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan 370Z Coupe",
+        "Year": "2009",
+        "Horsepower": "332",
+        "ID": "eefe45d4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "172",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan 370Z Coupe",
+        "Year": "2009",
+        "Horsepower": "332",
+        "ID": "eefe45f2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "173",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan 370Z Coupe",
+        "Year": "2009",
+        "Horsepower": "332",
+        "ID": "eefe4610-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "204",
+        "City mpg": "23",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Altima Coupe",
+        "Year": "2011",
+        "Horsepower": "175",
+        "ID": "eefe49b2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "205",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Altima Coupe",
+        "Year": "2011",
+        "Horsepower": "270",
+        "ID": "eefe49d0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "215",
+        "City mpg": "23",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Altima Coupe",
+        "Year": "2010",
+        "Horsepower": "175",
+        "ID": "eefe4b1a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "216",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Altima Coupe",
+        "Year": "2010",
+        "Horsepower": "270",
+        "ID": "eefe4b38-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "371",
+        "City mpg": "25",
+        "Make": "Nissan",
+        "Model Year": "2010 Toyota Matrix",
+        "Year": "2010",
+        "Horsepower": "132",
+        "ID": "eefe5e52-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "372",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eefe5e7a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "373",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eefe5e98-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "374",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eefe5eb6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "375",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eefe5ed4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "376",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eefe5ef2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "377",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eefe5f10-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "407",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eefe62da-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "408",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eefe62f8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "409",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eefe6316-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "410",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eefe6334-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "411",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eefe6352-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "412",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eefe6370-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "415",
+        "City mpg": "25",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Cube",
+        "Year": "2011",
+        "Horsepower": "122",
+        "ID": "eefe63d4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "416",
+        "City mpg": "25",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Cube",
+        "Year": "2011",
+        "Horsepower": "122",
+        "ID": "eefe63f2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "417",
+        "City mpg": "25",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Cube",
+        "Year": "2010",
+        "Horsepower": "122",
+        "ID": "eefe6410-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "418",
+        "City mpg": "25",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Cube",
+        "Year": "2010",
+        "Horsepower": "122",
+        "ID": "eefe642e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "497",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Cube",
+        "Year": "2009",
+        "Horsepower": "122",
+        "ID": "eefe6e24-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "498",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Cube",
+        "Year": "2009",
+        "Horsepower": "122",
+        "ID": "eefe6e42-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "508",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Juke",
+        "Year": "2011",
+        "Horsepower": "188",
+        "ID": "eefe6f96-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "509",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Juke",
+        "Year": "2011",
+        "Horsepower": "188",
+        "ID": "eefe6fb4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "872",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Pathfinder",
+        "Year": "2011",
+        "Horsepower": "266",
+        "ID": "eefea25e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "873",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Pathfinder",
+        "Year": "2011",
+        "Horsepower": "266",
+        "ID": "eefea290-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "874",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Pathfinder",
+        "Year": "2011",
+        "Horsepower": "266",
+        "ID": "eefea2b8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "875",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Pathfinder",
+        "Year": "2011",
+        "Horsepower": "266",
+        "ID": "eefea2e0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "876",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Pathfinder",
+        "Year": "2011",
+        "Horsepower": "266",
+        "ID": "eefea312-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "877",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Pathfinder",
+        "Year": "2011",
+        "Horsepower": "266",
+        "ID": "eefea344-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "878",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Pathfinder",
+        "Year": "2011",
+        "Horsepower": "266",
+        "ID": "eefea36c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "879",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Pathfinder",
+        "Year": "2011",
+        "Horsepower": "310",
+        "ID": "eefea39e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "880",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Pathfinder",
+        "Year": "2011",
+        "Horsepower": "266",
+        "ID": "eefea3c6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "984",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Pathfinder",
+        "Year": "2010",
+        "Horsepower": "266",
+        "ID": "eefeb5be-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "985",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Pathfinder",
+        "Year": "2010",
+        "Horsepower": "266",
+        "ID": "eefeb5e6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "986",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Pathfinder",
+        "Year": "2010",
+        "Horsepower": "266",
+        "ID": "eefeb60e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "987",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Pathfinder",
+        "Year": "2010",
+        "Horsepower": "266",
+        "ID": "eefeb636-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "988",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Pathfinder",
+        "Year": "2010",
+        "Horsepower": "310",
+        "ID": "eefeb65e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "989",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Pathfinder",
+        "Year": "2010",
+        "Horsepower": "266",
+        "ID": "eefeb686-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "990",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Pathfinder",
+        "Year": "2010",
+        "Horsepower": "266",
+        "ID": "eefeb6ae-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "995",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Pathfinder",
+        "Year": "2009",
+        "Horsepower": "266",
+        "ID": "eefeb780-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "996",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Pathfinder",
+        "Year": "2009",
+        "Horsepower": "266",
+        "ID": "eefeb7a8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "997",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Pathfinder",
+        "Year": "2009",
+        "Horsepower": "266",
+        "ID": "eefeb7da-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "998",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Pathfinder",
+        "Year": "2009",
+        "Horsepower": "310",
+        "ID": "eefeb802-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "999",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Pathfinder",
+        "Year": "2009",
+        "Horsepower": "266",
+        "ID": "eefeb834-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1000",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Pathfinder",
+        "Year": "2009",
+        "Horsepower": "266",
+        "ID": "eefeb866-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1001",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Pathfinder",
+        "Year": "2009",
+        "Horsepower": "266",
+        "ID": "eefeb898-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1002",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2009 Nissan Pathfinder",
+        "Year": "2009",
+        "Horsepower": "266",
+        "ID": "eefeb8c0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1322",
+        "City mpg": "21",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Sentra",
+        "Year": "2011",
+        "Horsepower": "200",
+        "ID": "eefee4f8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1323",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Sentra",
+        "Year": "2011",
+        "Horsepower": "140",
+        "ID": "eefee516-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1454",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Sentra",
+        "Year": "2010",
+        "Horsepower": "140",
+        "ID": "eefef556-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1455",
+        "City mpg": "21",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Sentra",
+        "Year": "2010",
+        "Horsepower": "200",
+        "ID": "eefef574-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1459",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Versa Hatchback",
+        "Year": "2011",
+        "Horsepower": "122",
+        "ID": "eefef5ec-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1460",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Versa Hatchback",
+        "Year": "2011",
+        "Horsepower": "122",
+        "ID": "eefef60a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1461",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Versa Hatchback",
+        "Year": "2010",
+        "Horsepower": "122",
+        "ID": "eefef632-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1462",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Versa Hatchback",
+        "Year": "2010",
+        "Horsepower": "122",
+        "ID": "eefef646-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1539",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Versa Sedan",
+        "Year": "2011",
+        "Horsepower": "122",
+        "ID": "eefeffce-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1540",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Versa Sedan",
+        "Year": "2011",
+        "Horsepower": "122",
+        "ID": "eefefff6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1541",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Versa Sedan",
+        "Year": "2011",
+        "Horsepower": "122",
+        "ID": "eeff0014-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1542",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Versa Sedan",
+        "Year": "2011",
+        "Horsepower": "107",
+        "ID": "eeff0032-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1543",
+        "City mpg": "25",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Versa Sedan",
+        "Year": "2011",
+        "Horsepower": "107",
+        "ID": "eeff0050-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1544",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Versa Sedan",
+        "Year": "2011",
+        "Horsepower": "107",
+        "ID": "eeff006e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1552",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Versa Sedan",
+        "Year": "2010",
+        "Horsepower": "122",
+        "ID": "eeff0168-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1553",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Versa Sedan",
+        "Year": "2010",
+        "Horsepower": "107",
+        "ID": "eeff0190-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1554",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Versa Sedan",
+        "Year": "2010",
+        "Horsepower": "122",
+        "ID": "eeff01ae-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1555",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Versa Sedan",
+        "Year": "2010",
+        "Horsepower": "107",
+        "ID": "eeff01cc-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1556",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Versa Sedan",
+        "Year": "2010",
+        "Horsepower": "122",
+        "ID": "eeff01f4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1557",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Versa Sedan",
+        "Year": "2010",
+        "Horsepower": "107",
+        "ID": "eeff0208-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1622",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Xterra",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "eeff0a3c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1623",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Xterra",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "eeff0a5a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1624",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Xterra",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "eeff0a78-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1625",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Xterra",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "eeff0aa0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1626",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Xterra",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "eeff0abe-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1627",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Xterra",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "eeff0adc-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1628",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Xterra",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "eeff0afa-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1629",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Xterra",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "eeff0b18-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1630",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Xterra",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "eeff0b40-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1631",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Xterra",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "eeff0b5e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1632",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Xterra",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "eeff0b7c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1633",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Xterra",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "eeff0b9a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1634",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Xterra",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "eeff0bb8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1635",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Xterra",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "eeff0be0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1636",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Xterra",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "eeff0bfe-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1637",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Xterra",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "eeff0c1c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1638",
+        "City mpg": "23",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Altima Coupe",
+        "Year": "2012",
+        "Horsepower": "175",
+        "ID": "eeff0c3a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1639",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Altima Coupe",
+        "Year": "2012",
+        "Horsepower": "270",
+        "ID": "eeff0c58-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1661",
+        "City mpg": "21",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Sentra",
+        "Year": "2012",
+        "Horsepower": "200",
+        "ID": "eeff0f1e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1662",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Sentra",
+        "Year": "2012",
+        "Horsepower": "140",
+        "ID": "eeff0f3c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1663",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Versa Hatchback",
+        "Year": "2012",
+        "Horsepower": "122",
+        "ID": "eeff0f5a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1664",
+        "City mpg": "26",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Versa Hatchback",
+        "Year": "2012",
+        "Horsepower": "122",
+        "ID": "eeff0f78-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "1681",
+        "City mpg": "27",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Versa Sedan",
+        "Year": "2012",
+        "Horsepower": "109",
+        "ID": "eeff1194-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2056",
+        "City mpg": "23",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Altima Coupe",
+        "Year": "2012",
+        "Horsepower": "170",
+        "ID": "eeff40a6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2059",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eeff4100-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2096",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eeff45b0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2097",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eeff45ce-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2099",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eeff4614-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2100",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eeff4632-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2101",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Armada",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "eeff4650-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2112",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eeff47a4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2113",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eeff47c2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2114",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eeff47e0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2115",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eeff47fe-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2125",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eeff4952-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2126",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Armada",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "eeff4966-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2424",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Sentra",
+        "Year": "2012",
+        "Horsepower": "135",
+        "ID": "eeff6ec8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2428",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Sentra",
+        "Year": "2011",
+        "Horsepower": "135",
+        "ID": "eeff6f4a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "2473",
+        "City mpg": "24",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Sentra",
+        "Year": "2010",
+        "Horsepower": "135",
+        "ID": "eeff74d6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3643",
+        "City mpg": "19",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "152",
+        "ID": "ef001080-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3647",
+        "City mpg": "19",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "152",
+        "ID": "ef0010f8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3648",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001116-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3649",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001134-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3650",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001152-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3651",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001170-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3652",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef0011ac-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3653",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef0011ca-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3654",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef0011e8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3655",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001206-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3656",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001224-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3657",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001242-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3658",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001260-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3659",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef00127e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3660",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef00129c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3661",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef0012ba-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3662",
+        "City mpg": "17",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "152",
+        "ID": "ef0012d8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3663",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef0012f6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3664",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001314-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3665",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001346-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3666",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef00140e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3667",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef00147c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3668",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef0014ae-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3669",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef0014cc-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3670",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef0014ea-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3671",
+        "City mpg": "17",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "152",
+        "ID": "ef001508-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3672",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001526-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3673",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Frontier",
+        "Year": "2011",
+        "Horsepower": "261",
+        "ID": "ef001544-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3740",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef001f9e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3741",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef001fb2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3742",
+        "City mpg": "17",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "152",
+        "ID": "ef001fd0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3743",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef001fee-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3744",
+        "City mpg": "19",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "152",
+        "ID": "ef00200c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3745",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef00202a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3746",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002048-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3747",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002066-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3748",
+        "City mpg": "19",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "152",
+        "ID": "ef002084-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3749",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef0020a2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3750",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef0020c0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3751",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef0020de-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3752",
+        "City mpg": "17",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "152",
+        "ID": "ef0020fc-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3837",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002d2c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3838",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002d4a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3839",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002d68-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3840",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002d86-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3841",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002dae-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3842",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002dcc-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3843",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002dea-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3844",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002e08-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3845",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002e1c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3846",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002e3a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3847",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002e58-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3848",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002e76-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3849",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002e94-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3850",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Frontier",
+        "Year": "2010",
+        "Horsepower": "261",
+        "ID": "ef002eb2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3916",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef0036fa-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3917",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef003718-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3918",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef003736-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3919",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef00375e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3920",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef00377c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3921",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef00379a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3922",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef0037b8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3923",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef0037d6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3924",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef0037f4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3925",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef003812-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3926",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef003830-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3927",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef00384e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3928",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef00386c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3929",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef00388a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3930",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef0038a8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3931",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef0038c6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3986",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef003f7e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3987",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef003f9c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3988",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef003fb0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3989",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef003fce-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3990",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef003fec-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3991",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef00400a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3992",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef004032-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3993",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef004050-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3994",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef00406e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3995",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef00408c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3996",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef0040aa-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "3997",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2011 Nissan Titan",
+        "Year": "2011",
+        "Horsepower": "317",
+        "ID": "ef0040d2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4087",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004bea-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4088",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004c08-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4089",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004c26-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4090",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004c4e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4091",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004c6c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4092",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004c8a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4093",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004ca8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4094",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004cd0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4095",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004cee-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4096",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004d0c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4097",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004d2a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4098",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004d48-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4099",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004d66-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4100",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004d84-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4101",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004da2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4102",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004db6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4103",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004dde-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4104",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004dfc-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4105",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004e1a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4106",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004e38-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4107",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004e56-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4108",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004e74-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4109",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004e92-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4110",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004eb0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4111",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004ec4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4112",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004ee2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4113",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004f00-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4114",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2010 Nissan Titan",
+        "Year": "2010",
+        "Horsepower": "317",
+        "ID": "ef004f1e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4122",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef005036-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4123",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef00505e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4124",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef00507c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4125",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef00509a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4126",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef0050b8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4127",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef0050d6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4128",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef0050fe-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4129",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef00511c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4130",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef00513a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4131",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef005158-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4132",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef005180-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4133",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef00519e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4134",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef0051bc-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4135",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Titan",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef0051da-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4391",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan 370Z Roadster",
+        "Year": "2012",
+        "Horsepower": "332",
+        "ID": "ef0071c4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4392",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan 370Z Roadster",
+        "Year": "2012",
+        "Horsepower": "332",
+        "ID": "ef0071e2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4393",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan 370Z Roadster",
+        "Year": "2012",
+        "Horsepower": "332",
+        "ID": "ef007200-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4394",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan 370Z Coupe",
+        "Year": "2012",
+        "Horsepower": "332",
+        "ID": "ef00721e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4395",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan 370Z Coupe",
+        "Year": "2012",
+        "Horsepower": "332",
+        "ID": "ef00723c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4396",
+        "City mpg": "18",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan 370Z Coupe",
+        "Year": "2012",
+        "Horsepower": "332",
+        "ID": "ef00725a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4397",
+        "City mpg": "19",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan 370Z Coupe",
+        "Year": "2012",
+        "Horsepower": "332",
+        "ID": "ef007278-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4398",
+        "City mpg": "19",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan 370Z Coupe",
+        "Year": "2012",
+        "Horsepower": "332",
+        "ID": "ef007296-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4399",
+        "City mpg": "25",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan JUKE",
+        "Year": "2012",
+        "Horsepower": "188",
+        "ID": "ef0072b4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4400",
+        "City mpg": "25",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan JUKE",
+        "Year": "2012",
+        "Horsepower": "188",
+        "ID": "ef0072d2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4429",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Xterra",
+        "Year": "2012",
+        "Horsepower": "261",
+        "ID": "ef007674-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4430",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Xterra",
+        "Year": "2012",
+        "Horsepower": "261",
+        "ID": "ef00769c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4431",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Xterra",
+        "Year": "2012",
+        "Horsepower": "261",
+        "ID": "ef0076ba-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4432",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Xterra",
+        "Year": "2012",
+        "Horsepower": "261",
+        "ID": "ef0076d8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4433",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Xterra",
+        "Year": "2012",
+        "Horsepower": "261",
+        "ID": "ef0076f6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4434",
+        "City mpg": "16",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Xterra",
+        "Year": "2012",
+        "Horsepower": "261",
+        "ID": "ef007714-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4435",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Xterra",
+        "Year": "2012",
+        "Horsepower": "261",
+        "ID": "ef00773c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4436",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Pathfinder",
+        "Year": "2012",
+        "Horsepower": "266",
+        "ID": "ef00775a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4437",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Pathfinder",
+        "Year": "2012",
+        "Horsepower": "266",
+        "ID": "ef007778-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4438",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Pathfinder",
+        "Year": "2012",
+        "Horsepower": "266",
+        "ID": "ef007796-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4439",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Pathfinder",
+        "Year": "2012",
+        "Horsepower": "266",
+        "ID": "ef0077b4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4440",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Pathfinder",
+        "Year": "2012",
+        "Horsepower": "266",
+        "ID": "ef0077dc-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4441",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Pathfinder",
+        "Year": "2012",
+        "Horsepower": "266",
+        "ID": "ef0077fa-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4442",
+        "City mpg": "15",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Pathfinder",
+        "Year": "2012",
+        "Horsepower": "266",
+        "ID": "ef00780e-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4443",
+        "City mpg": "14",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Pathfinder",
+        "Year": "2012",
+        "Horsepower": "266",
+        "ID": "ef00782c-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4444",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Pathfinder",
+        "Year": "2012",
+        "Horsepower": "310",
+        "ID": "ef00784a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4463",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007ab6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4464",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007ad4-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4465",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007af2-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4466",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007b1a-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4467",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007b38-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4468",
+        "City mpg": "9",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007b56-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4469",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007b74-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4470",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007b92-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4471",
+        "City mpg": "13",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007bb0-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4472",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007bd8-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4473",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007bf6-47d5-11ed-974f-acde48001122"
+    },
+    {
+        "index": "4474",
+        "City mpg": "12",
+        "Make": "Nissan",
+        "Model Year": "2012 Nissan Armada",
+        "Year": "2012",
+        "Horsepower": "317",
+        "ID": "ef007c14-47d5-11ed-974f-acde48001122"
+    }
+]
