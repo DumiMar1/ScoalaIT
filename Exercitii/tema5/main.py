@@ -1,6 +1,6 @@
-import os
-import json
-from utils import read_csv, consumption_check, horse_power_check, generate_id, check_brand
+
+from utils import read_csv, consumption_check, horse_power_check, generate_id, check_brand, save_file_at_dir
+
 
 if __name__ == "__main__":
     csv_data = read_csv("cars_list.csv")
@@ -9,28 +9,20 @@ if __name__ == "__main__":
     slow_cars, fast_cars, sport_cars = horse_power_check(csv_data)
     checked_brand = check_brand(csv_data, "BMW")
 
-    os.makedirs("/Users/dumitrumarin/PycharmProjects/ScoalaInformala/Exercitii/tema5/output_data", exist_ok=True)
+    # all_keys = csv_data[0].keys()
+    # # all_brand = [item["Make"].value() for item in csv_data]
+    # all_brands = [[v for k, v in item] for item in csv_data]
+    # print(all_keys)
+    # print(all_brands)
 
-    with open('output_data/low_mpg.json', 'w', encoding='utf-8') as f:
-        json.dump(low_mpg, f, ensure_ascii=False, indent=4)
+    dr_path = "/Users/dumitrumarin/PycharmProjects/ScoalaInformala/Exercitii/tema5/output_data"
 
-    with open('output_data/medium_mpg.json', 'w', encoding='utf-8') as f:
-        json.dump(medium_mpg, f, ensure_ascii=False, indent=4)
-
-    with open('output_data/high_mpg.json', 'w', encoding='utf-8') as f:
-        json.dump(high_mpg, f, ensure_ascii=False, indent=4)
-
-    with open('output_data/slow_cars.json', 'w', encoding='utf-8') as f:
-        json.dump(slow_cars, f, ensure_ascii=False, indent=4)
-
-    with open('output_data/fast_cars.json', 'w', encoding='utf-8') as f:
-        json.dump(fast_cars, f, ensure_ascii=False, indent=4)
-
-    with open('output_data/sports_cars.json', 'w', encoding='utf-8') as f:
-        json.dump(slow_cars, f, ensure_ascii=False, indent=4)
-
-
-
+    low_mpg_sv = save_file_at_dir(dr_path, "low_mpg.json", low_mpg)
+    medium_mpg_sv = save_file_at_dir(dr_path, "medium_mpg.json", medium_mpg)
+    high_mpg_sv = save_file_at_dir(dr_path, "high_mpg.json", high_mpg)
+    slow_cars_sv = save_file_at_dir(dr_path, "slow_cars.json", slow_cars)
+    fast_cars_sv = save_file_at_dir(dr_path, "fast_cars.json", fast_cars)
+    sport_cars_sv = save_file_at_dir(dr_path, "sport_cars.json", sport_cars)
 
 
 
