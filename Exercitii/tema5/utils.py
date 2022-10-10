@@ -40,13 +40,10 @@ def save_file_at_dir(dir_path, filename, file_content,):
 
 
 def check_brand(lst, name):
-    make = []
+    make = [item for item in lst if item["Make"] == name]
 
-    for item in lst:
-        if item["Make"] == name:
-            make.append(item)
-            with open(f'output_data/{name}.json', 'w', encoding='utf-8') as f:
-                json.dump(make, f, ensure_ascii=False, indent=4)
+    with open(f'output_data/{name}.json', 'w', encoding='utf-8') as f:
+        json.dump(make, f, ensure_ascii=False, indent=4)
 
 
 def user_choice():
