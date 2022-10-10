@@ -1,5 +1,5 @@
 
-from utils import read_csv, consumption_check, horse_power_check, generate_id, check_brand, save_file_at_dir, user_choice_1
+from utils import read_csv, consumption_check, horse_power_check, generate_id, check_brand, save_file_at_dir, user_choice
 
 if __name__ == "__main__":
     csv_data = read_csv("cars_list.csv")
@@ -16,7 +16,7 @@ if __name__ == "__main__":
     fast_cars_sv = save_file_at_dir(dr_path, "fast_cars.json", fast_cars)
     sport_cars_sv = save_file_at_dir(dr_path, "sport_cars.json", sport_cars)
 
-    brand_choice = user_choice_1()
+    brand_choice = user_choice()
 
     brand_output = check_brand(csv_data, brand_choice)
 

@@ -49,7 +49,7 @@ def check_brand(lst, name):
                 json.dump(make, f, ensure_ascii=False, indent=4)
 
 
-def user_choice_1():
+def user_choice():
     while True:
         user_choice = input("Choose a brand you want to see.")
 
